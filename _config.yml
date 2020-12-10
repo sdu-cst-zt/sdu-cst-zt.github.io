@@ -1,2 +1,5 @@
 theme: jekyll-theme-cayman
-title: Hello World 我爱这个世界
+title: Hello World 
+url: "sdu-cst-zt.github.io"
+sidebar: true
+RSS: false
